@@ -3,12 +3,22 @@ entries:
   alpine:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-30T12:34:03.128870546+03:00"
+    created: "2023-08-30T12:45:07.326799782+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 646bb238a4bdfb081f22ea3118b5e6a6a5cf78eaeb17826b3e89d1921e37e8e5
+    name: alpine
+    type: application
+    urls:
+    - https://goangel.github.io/helm-demo/alpine-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-30T12:45:07.326519981+03:00"
     description: A Helm chart for Kubernetes
     digest: 345fbf81f095c84a6a8ab5349c959392689225fdaa5f616e28f860d6bd76458f
     name: alpine
     type: application
     urls:
-    - alpine-0.1.1.tgz
+    - https://goangel.github.io/helm-demo/alpine-0.1.1.tgz
     version: 0.1.1
-generated: "2023-08-30T12:34:03.128081383+03:00"
+generated: "2023-08-30T12:45:07.326072281+03:00"
