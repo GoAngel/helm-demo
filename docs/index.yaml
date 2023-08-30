@@ -3,7 +3,7 @@ entries:
   alpine:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-30T12:45:07.326799782+03:00"
+    created: "2023-08-30T12:48:55.51261157+03:00"
     description: A Helm chart for Kubernetes
     digest: 646bb238a4bdfb081f22ea3118b5e6a6a5cf78eaeb17826b3e89d1921e37e8e5
     name: alpine
@@ -13,7 +13,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-30T12:45:07.326519981+03:00"
+    created: "2023-08-30T12:48:55.511204943+03:00"
     description: A Helm chart for Kubernetes
     digest: 345fbf81f095c84a6a8ab5349c959392689225fdaa5f616e28f860d6bd76458f
     name: alpine
@@ -21,4 +21,15 @@ entries:
     urls:
     - https://goangel.github.io/helm-demo/alpine-0.1.1.tgz
     version: 0.1.1
-generated: "2023-08-30T12:45:07.326072281+03:00"
+  buildachart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-30T12:48:55.513003738+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 67a2ea110dc4a476a11a35b69c1f98f9253f79d0141fa24a65981f0038c521a6
+    name: buildachart
+    type: application
+    urls:
+    - https://goangel.github.io/helm-demo/buildachart-1.1.2.tgz
+    version: 1.1.2
+generated: "2023-08-30T12:48:55.510734654+03:00"
